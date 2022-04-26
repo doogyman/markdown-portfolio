@@ -1,0 +1,2 @@
+* pokemon
+* minecraft
