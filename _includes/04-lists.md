@@ -1,2 +1,2 @@
-🚡
-🇪🇭
+* pokemon
+* minecraft
